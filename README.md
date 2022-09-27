@@ -1,4 +1,6 @@
-# Project to showcase web designing and web development skills
+# Gym Project
+
+A mordern React Gym project to showcase my web designing and web development skills.
 
 Golds Gym app, A mordern React App with the funcitonality to choose categories and specific muscle groups
 
